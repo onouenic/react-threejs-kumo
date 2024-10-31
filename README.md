@@ -27,19 +27,24 @@ Você pode ver a visualização do modelo de aranha em 3D, rotacioná-lo e aplic
 ## Instruções de Instalação
 
 1. **Clone o repositório:**
+   ```bash
    git clone git@github.com:onouenic/react-threejs-kumo.git
    cd seurepositorio
+   ```
 
 2. **Instale as dependências:**
+   ```base
    npm install
-   ou
+   # ou
    yarn install
+   ```
 
 3. **Execute o projeto em desenvolvimento:**
+   ```bash
    npm run dev
-   ou
+   # ou
    yarn dev
-
+   ```
 4. **Abra o projeto:**
    Abra o navegador e vá para [http://localhost:3000](http://localhost:3000) para ver a renderização da aranha.
 

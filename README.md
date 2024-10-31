@@ -11,18 +11,11 @@ Você pode ver a visualização do modelo de aranha em 3D, rotacioná-lo e aplic
 - **Next.js**: Framework React para renderização no lado do servidor e geração de sites estáticos.
 - **Three.js**: Biblioteca para renderização 3D baseada em WebGL.
 - **React Three Fiber**: Uma biblioteca que facilita o uso do Three.js com React, tornando a integração mais natural para aplicativos React.
-  
-## Estrutura do Projeto
-
-- **/components**: Contém componentes React, incluindo o componente principal para renderizar a aranha.
-- **/pages**: Páginas do Next.js. A página inicial contém a cena Three.js onde a aranha é renderizada.
-- **/public**: Recursos estáticos, como texturas e modelos 3D (no formato `.glb` ou `.obj`) da aranha.
-- **/styles**: Arquivos CSS ou Styled Components para estilização da interface.
 
 ## Requisitos
 
-- **Node.js** (versão 14 ou superior)
-- **npm** ou **yarn** para gerenciar dependências
+- **Next.js** (versão 14)
+- **React** (versão 18)
 
 ## Instruções de Instalação
 

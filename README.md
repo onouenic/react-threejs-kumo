@@ -32,12 +32,12 @@ Você pode ver a visualização do modelo de aranha em 3D, rotacioná-lo e aplic
 
 2. **Instale as dependências:**
    npm install
-   # ou
+   ou
    yarn install
 
 3. **Execute o projeto em desenvolvimento:**
    npm run dev
-   # ou
+   ou
    yarn dev
 
 4. **Abra o projeto:**
